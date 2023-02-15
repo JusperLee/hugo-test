@@ -34,3 +34,4 @@ Optionally, instead of publishing on a `github.io` subdomain, you can publish on
 ## ✍️ Credits
 
 This template was created by [**@jlumbroso**](https://github.com/jlumbroso), based on the [Hugo Apéro](https://github.com/hugo-apero/hugo-apero) theme. It was inspired by reading [a post from Silvia Canelón's blog](https://silviacanelon.com/blog/2021-hello-hugo-apero/).
+
